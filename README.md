@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ludonseyep (Lucas)
+- 👋 Hi, I’m @LucasNseyep (Lucas is fine)
 - 👀 I’m interested by the intersection of accessibility and technology. And how new technologies in niche/specific fields can trickle down to the average person.
 - 🌱 I’m currently learning AI and ML.
 - 💞️ I’m looking to collaborate on anything that seems cool honestly 🤷
