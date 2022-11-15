@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ludonseyep (Lucas)
-- 👀 I’m interested in accessibility to technology.
-- 🌱 I’m currently learning front-end engineering and ML.
+- 👀 I’m interested by the intersection of accessibility and technology. And how new technologies in niche/specific fields can trickle down to the average person.
+- 🌱 I’m currently learning AI and ML.
 - 💞️ I’m looking to collaborate on anything that seems cool honestly 🤷
 - 📫 How to reach me: https://www.linkedin.com/in/lucas-nseyep/
 
