@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LucasNseyep (Lucas is fine)
-- 👀 I’m interested in the use of technology of accessibility and entertainment. As well as how new technologies in niche/specific fields can trickle down to the average person.
+- 👀 I’m interested in the use of technology in accessibility and entertainment. As well as how new technologies in niche/specific fields can trickle down to the average person.
 - 🌱 I recently finished a bootcamp at Le Wagon London in Full Stack Web Development!
-- 💞️ I’m looking to collaborate on anything that would help me learn honestly 🤷
+- 💞️ I’m looking to collaborate on anything that would help me learn gain new knowledge 🤷
 - 📫 How to reach me: https://www.linkedin.com/in/lucas-nseyep/
